@@ -90,7 +90,8 @@ F H <BR>
 
 <hr>
 <h3>Program:</h3>
-```
+'''Depth First Search uses STACK AND RECURSION
+'''
 #import defaultdict
 from collections import defaultdict
 def dfs(graph,start,visited,path):
@@ -115,9 +116,7 @@ visited=defaultdict(bool)
 path=[]
 traversedpath=dfs(graph,start,visited,path)
 print(traversedpath)
-
 ```
-<hr>
 <h3>Result:</h3>
 
 <p>Thus,a Graph was constructed and implementation of Depth First Search for the same graph was done successfully.</p>
