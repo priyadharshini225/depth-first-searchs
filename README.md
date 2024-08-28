@@ -90,8 +90,8 @@ F H <BR>
 
 <hr>
 <h3>Program:</h3>
-'''Depth First Search uses STACK AND RECURSION
-'''
+Depth First Search uses STACK AND RECURSION
+```
 #import defaultdict
 from collections import defaultdict
 def dfs(graph,start,visited,path):
